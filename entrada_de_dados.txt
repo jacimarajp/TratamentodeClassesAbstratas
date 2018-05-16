@@ -1,0 +1,5 @@
+dim 60 20
+brush x
+reta 5 5 10 8
+retangulo 0 0 5 4 0
+circulo 50 49 5 1
